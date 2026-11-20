@@ -84,7 +84,7 @@ int main() {
                 printf("Total Withdrawn : %d\n", totalWithdrawn);
                 printf("Transactions    : %d\n", transactionCount);
                 printf("Final Balance   : %d\n", balance);
-                printf("Thank you!\n");
+                printf("Thank you!, Made by Tihan\n");
                 break;
             default:
                 printf("Invalid option\n");
